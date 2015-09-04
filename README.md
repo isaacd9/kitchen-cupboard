@@ -33,7 +33,7 @@ directory.
 
 ### Platform
 
-The proxy is running on a RHEL6 instance inside a vagrant virtual machine.
+The proxy is running on a Centos instance inside a vagrant virtual machine.
 
 ### Use
   - Run ```$ kitchen converge``` inside this directory. This will start a virtual machine with the proxy running.
